@@ -61,3 +61,22 @@ every prediction made by the model.
 
 ## 🚀 How to Run Locally
 ```bash
+---
+
+
+
+## 🙋 Author
+**Your Name**
+- LinkedIn: www.linkedin.com/in/priya-dharshini-51b857168
+- GitHub: github.com/
+
+---
+
+## 📜 License
+MIT License — free to use and modify
+"""
+
+with open("README.md", "w") as f:
+    f.write(readme)
+
+print("✅ README.md created!")
